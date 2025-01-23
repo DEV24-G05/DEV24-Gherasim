@@ -253,7 +253,7 @@ GameInstance <|-- MyGameInstance
 PlayerController <|-- MyPlayerController
 ```
 ## Posproducción
-La posproducción ha consistido en la creación del ejecutable del juego, disponible en la sección **Releases** junto con la grabación de un [vídeo]() de demostración en el que se puede ver como jugar al juego.
+La posproducción ha consistido en la creación del ejecutable del juego, disponible en la sección **Releases** junto con la grabación de un [vídeo](https://drive.google.com/file/d/1W7hPSG4adcoUaySSbvb_U-e0F2HpX9kY/view?usp=sharing) de demostración en el que se puede ver como jugar al juego.
 
 ## Licencia
 Iulius Gherasim, autor de la documentación, código y recursos de este juego, concedo permiso permanente a los profesores de la Facultad de Informática de la Universidad Complutense de Madrid para utilizar nuestro material, con sus comentarios y evaluaciones, con fines educativos o de investigación; ya sea para obtener datos agregados de forma anónima como para utilizarlo total o parcialmente reconociendo expresamente nuestra autoría.
